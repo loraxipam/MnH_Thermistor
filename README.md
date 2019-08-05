@@ -18,8 +18,8 @@
   ```c++
   float  readSensor()        // read the sensor and return the running average
   int readRawSensor()        // read and return the sensor, calculate running average
-  int        maxRaw()        // maximum senor value seen. See notes.
-  int        minRaw()        // minimum senor value seen. See notes.
+  int        maxRaw()        // maximum sensor value seen. See notes.
+  int        minRaw()        // minimum sensor value seen. See notes.
   float  currentAvg()        // current average sensor values
   float currentMean()        // current geometric mean sensor values
   void  setConverter(float m, float b)   // configure thermistor response curve

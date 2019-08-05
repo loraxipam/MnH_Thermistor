@@ -1,0 +1,14 @@
+MnH_Thermistor	KEYWORD1
+readSensor	KEYWORD2
+readRawSensor	KEYWORD2
+maxRaw		KEYWORD2
+minRaw		KEYWORD2
+currentAvg	KEYWORD2
+currentMean	KEYWORD2
+setConverter	KEYWORD2
+degC		KEYWORD2
+degF		KEYWORD2
+degCtoDegF	KEYWORD2
+degFtoDegC	KEYWORD2
+converterHelper	KEYWORD2
+SMOOTHERSIZE	LITERAL1
